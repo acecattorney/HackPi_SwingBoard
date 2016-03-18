@@ -1,6 +1,8 @@
-# #!/usr/bin/env python2.7  
+#!/usr/bin/env python2.7  
 
-
+# Hackberry Pi, SwingBoard
+# Yingli Sieh and Jeremy Huang
+# 2016-03-17
 
 from Tkinter import *
 from math import *
